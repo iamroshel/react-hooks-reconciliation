@@ -1,4 +1,4 @@
-# Reconciliation in React
+# Reconciliation in React c
 
 ## Learning Goals
 
